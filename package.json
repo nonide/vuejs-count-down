@@ -1,7 +1,7 @@
 {
   "name": "vuejs-count-down",
-  "version": "0.0.0",
-  "description": "Another Vue.js countdown",
+  "version": "0.0.1",
+  "description": "Vue.js countdown component",
   "jsnext": "dist/bundle.js",
   "main": "dist/bundle.common.js",
   "directories": {

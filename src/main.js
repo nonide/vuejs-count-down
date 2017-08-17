@@ -1,5 +1,5 @@
-import Hello from './components/Hello.vue';
+import CountDown from './components/CountDown.vue';
 
 export default {
-  Hello
+  CountDown
 };

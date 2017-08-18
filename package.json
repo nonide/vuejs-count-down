@@ -1,6 +1,6 @@
 {
   "name": "vuejs-count-down",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Vue.js countdown component",
   "jsnext": "dist/bundle.js",
   "main": "dist/bundle.common.js",
@@ -14,11 +14,20 @@
     "lint": "eslint src/* test/*",
     "beforePublish": "npm run lint && npm run build"
   },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "countdown"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonide/vuejs-count-down.git"
+  },
   "files": [
     "dist/",
     "src/"
   ],
-  "author": ".",
+  "author": "nonide",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.16.4",

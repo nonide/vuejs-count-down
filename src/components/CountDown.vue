@@ -16,7 +16,7 @@ export default {
     },
     created() {
         this.init()
-        if (this.autoStart)
+        if (this.autoStart !== false)
             this.start()
 
         // Events

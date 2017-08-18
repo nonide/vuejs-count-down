@@ -1,6 +1,6 @@
 {
   "name": "vuejs-count-down",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue.js countdown component",
   "jsnext": "dist/bundle.js",
   "main": "dist/bundle.common.js",
